@@ -1,4 +1,4 @@
-# simple-ETL-PostgreSQL
+# <span style="color:LightGreen">simple</span>-<span style="color:Crimson">E</span><span style="color:orange">T</span><span style="color:green">L</span>-<span style="color:#E6E6E6">PostgreSQL</span>
 A simple ETL process example using PostgreSQL and PL/pgSQL. 
 
 This PostgreSQL code outlines a simple ETL process for data staging, transformation, and normalization across three different datasets (staging_ins_a, staging_ins_b, staging_ins_c) and integrates them into a final normalized_claims table.
